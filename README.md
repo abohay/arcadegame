@@ -1,6 +1,6 @@
 ## desktop install
-1-open the html file in your browser
-2-start play
+1. open the html file in your browser
+2. start play
 
 ## How to Play:
 
