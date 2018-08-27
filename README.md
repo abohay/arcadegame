@@ -1,4 +1,4 @@
-##desktop install
+## desktop install
 1-open the html file in your browser
 2-start play
 
